@@ -1,0 +1,21 @@
+{
+  "name": "aoc-2019-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "day1.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/jest": "^24.0.23",
+    "@types/node": "^12.12.14"
+  },
+  "devDependencies": {
+    "jest": "^24.9.0",
+    "ts-jest": "^24.2.0",
+    "typescript": "^3.7.2"
+  }
+}
